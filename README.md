@@ -1,4 +1,4 @@
 # kaganblog
 
-blog syafamın kodlarına buradan ulaşabilirsiniz:
+blog sayfamın kodlarına buradan ulaşabilirsiniz:
 https://ahmetkagankarababablog.netlify.app/
